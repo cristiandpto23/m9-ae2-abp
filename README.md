@@ -110,16 +110,10 @@ Este proyecto es parte de una evaluación académica. Las sugerencias y mejoras 
 
 ---
 
-## 📄 Licencia
-
-Proyecto educativo de código abierto.
-
----
-
 ## ✍️ Autor
 
 **Cristian Ahumada**  
-Repositorio: [m2-eval-portafolio](https://github.com/cristiandpto23/m2-eval-portafolio)
+Repositorio: [m9-ae2-abp](https://github.com/cristiandpto23/m9-ae2-abp)
 
 ---
 
