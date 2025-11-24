@@ -4,7 +4,7 @@
 
 Proyecto interactivo de trivia temático sobre cine chileno. Desarrollado con HTML5, CSS3, Bootstrap 5, JavaScript y jQuery para demostrar buenas prácticas de desarrollo web frontend.
 
-🔗 **[Ver demo en vivo](https://cristiandpto23.github.io/m2-eval-portafolio/)**
+🔗 **[Ver demo en vivo](https://cristiandpto23.github.io/m9-ae2-abp/)**
 
 ---
 
